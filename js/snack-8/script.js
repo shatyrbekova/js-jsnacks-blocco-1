@@ -19,4 +19,4 @@ else if (isNaN(num)){
     }
 }
 
-document.getElementById('result').innerHTML =totale;
+document.getElementById('result').innerHTML = 'Il numero toale è' + '  ' + totale;
